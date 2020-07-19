@@ -7,6 +7,8 @@ A Research Achievements Management System Developed By Our Team @CS ECNU
 
 
 ## References
+- Web开发博客
+  - [https://learnku.com/users/1](Summer)
 - TortoiseHG
   - [Using Mercurial](http://irtfweb.ifa.hawaii.edu/~lockhart/hg.html#Getting_an_Existing_Repository_Cloning)
   - [Mercurial Chinese Tutorial](https://www.mercurial-scm.org/wiki/ChineseTutorialInstall)
