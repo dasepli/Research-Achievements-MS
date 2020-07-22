@@ -17,7 +17,9 @@ A Research Achievements Management System Developed By Our Team @CS ECNU
   - [yum安装](https://blog.csdn.net/genaro26/article/details/93979591)
   - [yum安装（补丁）](https://blog.csdn.net/yqj234/article/details/83374665)
   - [rpm升级](https://www.cnblogs.com/ontoweb-zp/p/9268008.html)
-  
+  - [增强功能1](http://download.virtualbox.org/virtualbox)
+  - [增强功能2](https://www.jb51.net/article/115159.htm)
+  - [增强功能3](https://jingyan.baidu.com/article/d2b1d102cf998b5c7f37d442.html)
 
 
 - Web开发博客
