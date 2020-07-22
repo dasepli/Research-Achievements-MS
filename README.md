@@ -9,7 +9,7 @@ A Research Achievements Management System Developed By Our Team @CS ECNU
 
 ## References
 - 虚拟机环境配置参考
-- [VirtualBox安装CentOS7及网络配置](https://blog.csdn.net/xlyrh/article/details/104924101)
+  - [VirtualBox安装CentOS7及网络配置](https://blog.csdn.net/xlyrh/article/details/104924101)
 
 
 - Web开发博客
