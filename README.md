@@ -20,6 +20,10 @@ A Research Achievements Management System Developed By Our Team @CS ECNU
   - [增强功能1](http://download.virtualbox.org/virtualbox)
   - [增强功能2](https://www.jb51.net/article/115159.htm)
   - [增强功能3](https://jingyan.baidu.com/article/d2b1d102cf998b5c7f37d442.html)
+  - [CentOS7安装MySQL](https://www.cnblogs.com/bigbrotherer/p/7241845.html)
+  - [CentOS 8 安装图解](https://zhuanlan.zhihu.com/p/85807189)
+  - [最新版CentOS8系统安装和基本配置](https://zhuanlan.zhihu.com/p/126308255)
+  
 
 
 - Web开发博客
