@@ -15,6 +15,7 @@ A Research Achievements Management System Developed By Our Team @CS ECNU
   - [安装wget 、 wget命令](https://blog.csdn.net/zanbin169/article/details/12871943)
   - [Linux RPM包安装、卸载和升级（rpm命令）详解](http://c.biancheng.net/view/2872.html)
   - [yum安装](https://blog.csdn.net/genaro26/article/details/93979591)
+  - [yum安装（补丁）](https://blog.csdn.net/yqj234/article/details/83374665)
   - [rpm升级](https://www.cnblogs.com/ontoweb-zp/p/9268008.html)
   
 
