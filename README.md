@@ -6,7 +6,12 @@ A Research Achievements Management System Developed By Our Team @CS ECNU
 - [Lavavel](https://laravel.com/docs/7.x)
 
 
+
 ## References
+- 虚拟机环境配置参考
+- [VirtualBox安装CentOS7及网络配置](https://blog.csdn.net/xlyrh/article/details/104924101)
+
+
 - Web开发博客
   - [Summer](https://learnku.com/users/1)
 - TortoiseHG
