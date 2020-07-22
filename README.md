@@ -9,10 +9,13 @@ A Research Achievements Management System Developed By Our Team @CS ECNU
 
 ## References
 - 虚拟机环境配置参考
+  - [镜像库](http://mirrors.163.com/centos/7.8.2003/os/x86_64/Packages/)
   - [VirtualBox安装CentOS7及网络配置](https://blog.csdn.net/xlyrh/article/details/104924101)
   - [安装wget 、 wget命令](https://blog.csdn.net/zanbin169/article/details/12871943)
   - [Linux RPM包安装、卸载和升级（rpm命令）详解](http://c.biancheng.net/view/2872.html)
   - [yum安装](https://blog.csdn.net/genaro26/article/details/93979591)
+  - [rpm升级](https://www.cnblogs.com/ontoweb-zp/p/9268008.html)
+  
 
 
 - Web开发博客
