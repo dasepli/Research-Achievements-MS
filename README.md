@@ -9,6 +9,7 @@ A Research Achievements Management System Developed By Our Team @CS ECNU
 
 ## References
 - 虚拟机环境配置参考
+  - [RedHat镜像地址](https://www.cnblogs.com/qingbai/p/12020581.html)
   - [镜像库](http://mirrors.163.com/centos/7.8.2003/os/x86_64/Packages/)
   - [VirtualBox安装CentOS7及网络配置](https://blog.csdn.net/xlyrh/article/details/104924101)
   - [安装wget 、 wget命令](https://blog.csdn.net/zanbin169/article/details/12871943)
