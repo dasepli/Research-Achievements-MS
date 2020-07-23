@@ -29,6 +29,7 @@ A Research Achievements Management System Developed By Our Team @CS ECNU
   - [在CentOS 8/RHEL 8系统中安装PHP 7.4的方法](https://www.php.cn/topic/php7/434093.html)
   - [虚拟机上用php安装laravel](https://my.oschina.net/songms/blog/3737522)
   - [virtualbox桥接网卡设置](https://jingyan.baidu.com/article/9faa7231cbbd7f473c28cba0.html)
+  - [10.0.2.15ip地址——VirtualBox安装Lunix系统ip地址的问题](https://blog.csdn.net/u014581901/article/details/77771505)
   
 
 
