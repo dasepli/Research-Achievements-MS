@@ -23,6 +23,7 @@ A Research Achievements Management System Developed By Our Team @CS ECNU
   - [CentOS7安装MySQL](https://www.cnblogs.com/bigbrotherer/p/7241845.html)
   - [CentOS 8 安装图解](https://zhuanlan.zhihu.com/p/85807189)
   - [最新版CentOS8系统安装和基本配置](https://zhuanlan.zhihu.com/p/126308255)
+  - [每次重启虚拟机就要重新安装系统](https://zhidao.baidu.com/question/561766103.html)
   
 
 
