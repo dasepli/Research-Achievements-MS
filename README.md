@@ -25,6 +25,7 @@ A Research Achievements Management System Developed By Our Team @CS ECNU
   - [最新版CentOS8系统安装和基本配置](https://zhuanlan.zhihu.com/p/126308255)
   - [每次重启虚拟机就要重新安装系统](https://zhidao.baidu.com/question/561766103.html)
   - [CentOS 8上安装MySQL 8.0](https://blog.csdn.net/qq_43232506/article/details/102816659)
+  - [virtualbox centos8 共享文件夹](https://www.facecto.com/archives/676.html)
   
 
 
