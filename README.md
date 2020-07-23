@@ -27,6 +27,7 @@ A Research Achievements Management System Developed By Our Team @CS ECNU
   - [CentOS 8上安装MySQL 8.0](https://blog.csdn.net/qq_43232506/article/details/102816659)
   - [virtualbox centos8 共享文件夹](https://www.facecto.com/archives/676.html)
   - [在CentOS 8/RHEL 8系统中安装PHP 7.4的方法](https://www.php.cn/topic/php7/434093.html)
+  - [虚拟机上用php安装laravel](https://my.oschina.net/songms/blog/3737522)
   
 
 
