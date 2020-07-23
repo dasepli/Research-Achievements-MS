@@ -28,6 +28,7 @@ A Research Achievements Management System Developed By Our Team @CS ECNU
   - [virtualbox centos8 共享文件夹](https://www.facecto.com/archives/676.html)
   - [在CentOS 8/RHEL 8系统中安装PHP 7.4的方法](https://www.php.cn/topic/php7/434093.html)
   - [虚拟机上用php安装laravel](https://my.oschina.net/songms/blog/3737522)
+  - [virtualbox桥接网卡设置](https://jingyan.baidu.com/article/9faa7231cbbd7f473c28cba0.html)
   
 
 
