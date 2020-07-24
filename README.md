@@ -32,6 +32,7 @@ A Research Achievements Management System Developed By Our Team @CS ECNU
   - [10.0.2.15ip地址——VirtualBox安装Lunix系统ip地址的问题](https://blog.csdn.net/u014581901/article/details/77771505)
   - [Windows10系统启用Telnet详细教程](https://jingyan.baidu.com/article/3ea51489ba79e252e61bba97.html)
   - [Linux如何运行.AppImage文件](https://jingyan.baidu.com/article/d5a880ebdfc12d13f047cc62.html)
+  - [通过Navicat进行Mysql数据库自动备份与还原](https://blog.csdn.net/weixin_30723433/article/details/98430942)
   
 
 
