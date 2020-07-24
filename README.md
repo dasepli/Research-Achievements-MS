@@ -38,7 +38,9 @@ A Research Achievements Management System Developed By Our Team @CS ECNU
   - [Laravel设置全局变量](https://blog.csdn.net/qq_25615395/article/details/79500163)
   
   
-
+- Laravel教程
+  - [B站视频教程](https://www.bilibili.com/video/BV1kE411Z79P?from=search&seid=6728794179127385547)
+  - []()
 
 - Web开发博客
   - [Summer](https://learnku.com/users/1)
