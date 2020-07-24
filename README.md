@@ -34,6 +34,7 @@ A Research Achievements Management System Developed By Our Team @CS ECNU
   - [Linux如何运行.AppImage文件](https://jingyan.baidu.com/article/d5a880ebdfc12d13f047cc62.html)
   - [通过Navicat进行Mysql数据库自动备份与还原](https://blog.csdn.net/weixin_30723433/article/details/98430942)
   - [Navicat Premium11 在CentOS 7下如何破解](https://segmentfault.com/q/1010000008848469)
+  - [Ubuntu16.04 中PHP7.0 安装pdo_mysql 扩展](https://blog.csdn.net/jiangzhanweiabc/article/details/79805294?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param)
   
 
 
