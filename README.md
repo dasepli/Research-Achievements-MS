@@ -31,6 +31,7 @@ A Research Achievements Management System Developed By Our Team @CS ECNU
   - [virtualbox桥接网卡设置](https://jingyan.baidu.com/article/9faa7231cbbd7f473c28cba0.html)
   - [10.0.2.15ip地址——VirtualBox安装Lunix系统ip地址的问题](https://blog.csdn.net/u014581901/article/details/77771505)
   - [Windows10系统启用Telnet详细教程](https://jingyan.baidu.com/article/3ea51489ba79e252e61bba97.html)
+  - [Linux如何运行.AppImage文件](https://jingyan.baidu.com/article/d5a880ebdfc12d13f047cc62.html)
   
 
 
