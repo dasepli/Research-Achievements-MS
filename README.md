@@ -8,6 +8,9 @@ A Research Achievements Management System Developed By Our Team @CS ECNU
 
 
 ## References
+- Web开发文档
+  - [Summer](https://learnku.com/users/1)
+  
 - 虚拟机环境配置参考
   - [RedHat镜像地址](https://www.cnblogs.com/qingbai/p/12020581.html)
   - [镜像库](http://mirrors.163.com/centos/7.8.2003/os/x86_64/Packages/)
@@ -38,13 +41,11 @@ A Research Achievements Management System Developed By Our Team @CS ECNU
   - [Laravel设置全局变量](https://blog.csdn.net/qq_25615395/article/details/79500163)
   
   
-- Laravel教程
+- Laravel参考
   - [B站视频教程](https://www.bilibili.com/video/BV1kE411Z79P?from=search&seid=6728794179127385547)
   - [视频配套博客](https://qianjinyike.com/category/laravel/)
 
-- Web开发博客
-  - [Summer](https://learnku.com/users/1)
-- TortoiseHG
+- TortoiseHG参考
   - [Using Mercurial](http://irtfweb.ifa.hawaii.edu/~lockhart/hg.html#Getting_an_Existing_Repository_Cloning)
   - [Mercurial Chinese Tutorial](https://www.mercurial-scm.org/wiki/ChineseTutorialInstall)
   - [TortoiseHg 学习笔记](https://blog.csdn.net/xukai871105/article/details/25649331)
