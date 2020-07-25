@@ -40,7 +40,7 @@ A Research Achievements Management System Developed By Our Team @CS ECNU
   
 - Laravel教程
   - [B站视频教程](https://www.bilibili.com/video/BV1kE411Z79P?from=search&seid=6728794179127385547)
-  - []()
+  - [视频配套博客](https://qianjinyike.com/category/laravel/)
 
 - Web开发博客
   - [Summer](https://learnku.com/users/1)
